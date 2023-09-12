@@ -46,15 +46,15 @@
 
 *Screenshot of running My First App*:
 
-![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg){height=50%}
+![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg)
 
 *Screenshot of Contacts App:
 
-![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg){height=50%}
+![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg)
 
 *Screenshot of My Contact:
 
-![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg){height=50%}
+![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg)
 
 
 
