@@ -44,9 +44,16 @@
 
 ![JDK Install Screenshot](img/lis4331-javahello.jpg)
 
-*Screenshot of running My First App*:
 
-![First App Screenshot](img/lis4331-myfirstapp.jpg)
+
+
+
+
+|  *Screenshot of running My First App*: |   | *Gif of running Contacts App*  |   |   |
+|---|---|---|---|---|
+| ![First App Screenshot](img/lis4331-myfirstapp.jpg)  |   |  ![First App Screenshot](img/lis4331-contactapp.gif) |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 | *Screenshot of Contacts App:  |   | *Screenshot of My Contact:  |   |   |
