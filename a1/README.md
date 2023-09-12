@@ -42,7 +42,7 @@
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/lis4331-javahello.jpg)
+![JDK Installation Screenshot](img/lis4331-javahello.jpg){width: 50%}
 
 *Screenshot of running My First App*:
 
