@@ -42,19 +42,19 @@
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/lis4331-javahello.jpg)
+![JDK Install Screenshot](img/lis4331-javahello.jpg)
 
 *Screenshot of running My First App*:
 
-![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg)
+![First App Screenshot](img/lis4331-myfirstapp.jpg)
 
 *Screenshot of Contacts App:
 
-![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg)
+![Contacts App Screenshot](img/lis4331-contacts-homepage.jpg)
 
 *Screenshot of My Contact:
 
-![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg)
+![My Contact Screenshot](img/lis4331-mycontact.jpg)
 
 
 
