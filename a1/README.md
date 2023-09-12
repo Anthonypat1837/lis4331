@@ -49,8 +49,12 @@
 ![First App Screenshot](img/lis4331-myfirstapp.jpg)
 
 
+| *Screenshot of Contacts App:  |   | *Screenshot of My Contact:  |   |   |
+|---|---|---|---|---|
+| ![Contacts App Screenshot](img/lis4331-contacts-homepage.jpg)  |   | ![My Contact Screenshot](img/lis4331-mycontact.jpg)  |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-| *Screenshot of Contacts App: ![Contacts App Screenshot](img/lis4331-contacts-homepage.jpg)  |  *Screenshot of My Contact: ![My Contact Screenshot](img/lis4331-mycontact.jpg) | 
 
 
 
