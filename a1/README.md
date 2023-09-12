@@ -42,19 +42,19 @@
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/lis4331-javahello.jpg){width: 50%}
+![JDK Installation Screenshot](img/lis4331-javahello.jpg)
 
 *Screenshot of running My First App*:
 
-![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg)
+![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg){height=50%}
 
 *Screenshot of Contacts App:
 
-![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg)
+![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg){height=50%}
 
 *Screenshot of My Contact:
 
-![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg)
+![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg){height=50%}
 
 
 #### Tutorial Links:
