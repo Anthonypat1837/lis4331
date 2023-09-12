@@ -12,14 +12,15 @@
 *Three Parts:*
 
 1. Distributed Version Control with Git and Bitbucket
-2. Java/JSP/Servlet Development Installation
-3. Chapter Questions (Chs. 1 - 4)
+2. Development Installation
+3. Chapter Questions
+4. Git Command Descriptions
 
 #### README.md file should include the following items:
 
 * Screenshot of running java Hello
-* Screenshot of running http://localhost:9999 
-* Screenshot of a1/index.jsp
+* Screenshot of running first android app
+* Screenshot of running Contacts app
 * Git commands with short descriptions
 * Bitbucket Repo Links
 
@@ -39,17 +40,21 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of running http://localhost*:
-
-![Tomcat Installation Screenshot](img/tomcat.jpg)
-
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/LIS4368Javass.jpg)
+![JDK Installation Screenshot](img/lis4331-javahello.jpg)
 
-*Screenshot of A1 - Index.jsp:
+*Screenshot of running My First App*:
 
-![A1 Index.jsp Screenshot](img/LIS4368Index.jpg)
+![Tomcat Installation Screenshot](img/lis4331-myfirstapp.jpg)
+
+*Screenshot of Contacts App:
+
+![A1 Index.jsp Screenshot](img/lis4331-contacts-homepage.jpg)
+
+*Screenshot of My Contact:
+
+![A1 Index.jsp Screenshot](img/lis4331-mycontact.jpg)
 
 
 #### Tutorial Links:
@@ -57,5 +62,5 @@
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ap19t/bitbucketstationlocations/ "Bitbucket Station Locations")
 
-*LIS4368 - Repository:*
-[LIS4368 Repository Link](https://bitbucket.org/ap19t/lis4368/src/master/ "LIS4368")
+*LIS4331 - Repository:*
+[LIS4331 Repository Link](https://bitbucket.org/ap19t/lis4331/src/master/ "LIS4368")
