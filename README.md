@@ -4,7 +4,7 @@
 
 ## Anthony Patregnani
 
-### Class Number Requirements:
+### LIS4331 Requirements:
 
 *Course Work Links:*
 
