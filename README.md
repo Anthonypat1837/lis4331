@@ -17,6 +17,6 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    -Create Android App
-    -Assignment Skill Sets
-    -Assignment Questions
+    - Create Android App
+    - Assignment Skill Sets
+    - Assignment Questions
