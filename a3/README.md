@@ -24,22 +24,22 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of running With Calcs*:
-
-![Money Conversion Calculator](img/currencyconverted.jpg)
-
-*Screenshot of running With out Calcs*:
-
-![Calculator without Calcs](img/emptyconverter.jpg)
-
-*Screenshot of running Splash Screen*:
-![Splash Screen](img/splashscreen.jpg)
-
-*Screenshot of running Toast Notification*:
-![Toast Notification](img/toastnotification.jpg)
 
 
 
+
+
+
+
+
+
+
+
+
+
+| *Screenshot of running With Calcs*: |  *Screenshot of running With out Calcs*: | *Screenshot of running Splash Screen*: | *Screenshot of running Toast Notification*:  |   |
+|---|---|---|---|---|
+| ![Money Conversion Calculator](img/currencyconverted.jpg) | ![Calculator without Calcs](img/emptyconverter.jpg)  | ![Splash Screen](img/splashscreen.jpg) | ![Toast Notification](img/toastnotification.jpg)  |  |
 
 
 | *Screenshot of running Skillset4*:  |  
