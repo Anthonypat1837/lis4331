@@ -58,6 +58,6 @@
 |---|---|---|---|---|
 |  ![Java SkillSet Screenshot](img/skillset6-4.jpg) |   | ![Java SkillSet Screenshot](img/skillset6-6.jpg)  |   | ![Java SkillSet Screenshot](img/skillset6-7.jpg)  |
 
-| *Screenshot of running Skillset6.5*:  |   | *Screenshot of running Skillset6.8*:  | 
+| *Screenshot of running Skillset6.5*:  | *Screenshot of running Skillset6.8*:  | 
 |---|---|
-|  ![Java SkillSet Screenshot](img/skillset6-5.jpg) |   | ![Java SkillSet Screenshot](img/skillset6-8.jpg)  |  
+|  ![Java SkillSet Screenshot](img/skillset6-5.jpg) | ![Java SkillSet Screenshot](img/skillset6-8.jpg)  |  
