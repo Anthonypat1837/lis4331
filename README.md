@@ -20,3 +20,7 @@
     - Create Android App
     - Assignment Skill Sets
     - Assignment Questions
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Create Android App
+    - Assignment Skill Sets
+    - Assignment Questions
