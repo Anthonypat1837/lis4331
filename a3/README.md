@@ -42,8 +42,8 @@
 | ![Money Conversion Calculator](img/currencyconverted.jpg) | ![Calculator without Calcs](img/emptyconverter.jpg)  | ![Splash Screen](img/splashscreen.jpg) | ![Toast Notification](img/toastnotification.jpg)  |  |
 
 
-| *Screenshot of running Skillset4*:  |  
-|---|---|---|---|---|
+| *Screenshot of running Skillset4*:  | 
+|---|
 |  ![Java SkillSet Screenshot](img/skillset4.jpg) | 
 
 | *Screenshot of running Skillset5.1*:  |   | *Screenshot of running Skillset5.2*:  |   | *Screenshot of running Skillset5.3*:  |
@@ -59,5 +59,5 @@
 |  ![Java SkillSet Screenshot](img/skillset6-4.jpg) |   | ![Java SkillSet Screenshot](img/skillset6-6.jpg)  |   | ![Java SkillSet Screenshot](img/skillset6-7.jpg)  |
 
 | *Screenshot of running Skillset6.5*:  |   | *Screenshot of running Skillset6.8*:  | 
-|---|---|---|---|---|
+|---|---|
 |  ![Java SkillSet Screenshot](img/skillset6-5.jpg) |   | ![Java SkillSet Screenshot](img/skillset6-8.jpg)  |  
