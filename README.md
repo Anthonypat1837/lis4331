@@ -24,3 +24,7 @@
     - Create Android App
     - Assignment Skill Sets
     - Assignment Questions
+4. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Create Android App
+    - Assignment Skill Sets
+    - Assignment Questions
