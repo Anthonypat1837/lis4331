@@ -48,7 +48,7 @@
 
 | *Screenshot of running Skillset8.1*:  |   | *Screenshot of running Skillset8.2*:  |   |   |
 |---|---|---|---|---|
-|  ![Java SkillSet Screenshot](img/skillset8.jpg) |   | ![Java SkillSet Screenshot](img/skillset8.1.jpg)  |   |   |
+|  ![Java SkillSet Screenshot](img/skillset8.1.jpg) |   | ![Java SkillSet Screenshot](img/skillset8.jpg)  |   |   |
 
 | *Screenshot of running Skillset9.1*:  |   | *Screenshot of running Skillset9.2*:  |   | *Screenshot of running Skillset9.3*:  |
 |---|---|---|---|---|
