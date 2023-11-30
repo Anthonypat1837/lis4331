@@ -32,3 +32,7 @@
     - Create Android App
     - Assignment Skill Sets
     - Assignment Questions
+6. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Create Android App
+    - Assignment Skill Sets
+    - Assignment Questions
