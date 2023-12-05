@@ -36,3 +36,7 @@
     - Create Android App
     - Assignment Skill Sets
     - Assignment Questions
+7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Create Android App
+    - Assignment Skill Sets
+    - Assignment Questions
