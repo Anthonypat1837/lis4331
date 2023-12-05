@@ -22,7 +22,7 @@
 
 | *Screenshot of running Splash Screen*:  |  *Screenshot of running Add Users*: | *Screenshot of running Update User |
 |---|---|---|
-| ![Splash Screen](img/Screenshot_20231205-135329_My%20Users.jpg)  |  ![Add Screen](img/Screenshot_20231205-135329_My%20Users.jpg) | ![Update Screen](img/Screenshot_20231205-135352_My%20Users.jpg) |
+| ![Splash Screen](img/Screenshot_20231205-135309_My%20Users.jpg)  |  ![Add Screen](img/Screenshot_20231205-135329_My%20Users.jpg) | ![Update Screen](img/Screenshot_20231205-135352_My%20Users.jpg) |
 
 | *Screenshot of View User*: | *Screenshot of Delete User*: |
 |---|---|
